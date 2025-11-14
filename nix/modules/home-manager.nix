@@ -26,6 +26,7 @@ with lib; let
     windows = "Find and focus windows";
     snippets = "Find and paste text snippets";
     nirisessions = "Define sets of apps to open and run them";
+    "1password" = "Search 1password vaults";
   };
 in {
   imports = [
